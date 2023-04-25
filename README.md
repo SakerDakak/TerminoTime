@@ -1,5 +1,8 @@
 # TerminoTime
 Dashboard Project
+
 https://sakerdakak.github.io/TerminoTime/
-\nEmail: test@admin.com
-\nPassword: 123456789
+
+Email: test@admin.com
+
+Password: 123456789
